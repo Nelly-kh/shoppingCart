@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+.CartHeader{
+justify-content: center;
+  display: flex;
+  padding: 30px; 
+}
+
+
+.CartItem{
+  display: flex;
+  margin: 30px;
+}
+
+.CartItem>div{width: 50%;
+}
+
+.Cart{
+margin: auto;
+width: 400px;
+
+}
+
+.icone>img{
+width: 50px
+}
+
+.sub{
+display: flex;
+justify-content: space-around;
+}
+
+.but{
+  margin-top: 15px;
+
+}
+
+.but button{
+  width: 200px;
+  padding: 10px 8px;
+  background-color: #4BB2EB;
+  color: aliceblue;
+  outline: none;
+  border-radius: 3px;
+  border: none;
+}
+
+p{
+  padding: 0;
+  margin: 0;
+}
+
+.count{
+  display: flex;
+  
+}
+.count input{
+  width: 40px;
+  margin: 0px 8px;
+}
+
+.col{
+width: 108px;
+height: 10px;
+}
